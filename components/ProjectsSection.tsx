@@ -9,7 +9,7 @@ const projects = [
     name: "Phone Eats First",
     description:
       "Mobile application that captures food photography and recipes of your favourite eats using Flutter and Dart.",
-    image: "/Recipe book-amico.png",
+    image: "/Recipe-book-amico.png",
     github: "https://github.com/mylan-nguyen/phone-eats-first-app.git",
     link: "https://github.com/mylan-nguyen/phone-eats-first-app.git",
   },
